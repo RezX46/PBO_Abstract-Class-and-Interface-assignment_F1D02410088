@@ -74,7 +74,7 @@ The main execution driver class demonstrating:
 ## 3. Class Diagram
 
 ### Class Diagram
-![Class Diagram](class diagram.png)
+![Diagram](<class diagram.png>)
 
 ## 4. Output Screenshot
 
